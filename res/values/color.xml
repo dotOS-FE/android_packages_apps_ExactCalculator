@@ -17,14 +17,14 @@
 
 <resources>
 
-    <!-- Default accent color. -->
-    <color name="calculator_accent_color">#0097A7</color>
+     <!-- Default accent color. -->
+    <color name="calculator_accent_color">@*android:color/accent_device_default_light</color>
 
     <!-- Primary color (Color for the toolbars). -->
-    <color name="calculator_primary_color">#00BCD4</color>
+    <color name="calculator_primary_color">@*android:color/accent_device_default_light</color>
 
     <!-- Status bar color. -->
-    <color name="calculator_statusbar_color">#0096A9</color>
+    <color name="calculator_statusbar_color">@*android:color/accent_device_default_light</color>
 
     <!-- Color to indicate an error has occured. -->
     <color name="calculator_error_color">#C2185B</color>
