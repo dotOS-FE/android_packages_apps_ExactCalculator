@@ -65,4 +65,7 @@
     <!-- Background color for empty history view. -->
     <color name="empty_history_color">@color/calculator_primary_color</color>
 
+    <!-- App Background icon -->
+    <color name="ic_launcher_background">#5578FB</color>
+
 </resources>
