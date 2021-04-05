@@ -68,4 +68,7 @@
     <!-- App Background icon -->
     <color name="ic_launcher_background">#5578FB</color>
 
+    <!-- Background color for Operator Buttons. -->
+    <color name="op_eq_icon_color">#c41442</color>
+    <color name="operator_bg">#0f000000</color>
 </resources>
